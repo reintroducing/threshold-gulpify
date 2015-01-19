@@ -5,6 +5,6 @@ var gulp = require('gulp'),
     config = require('../config.json');
 
 gulp.task('watch', ['browserify'], function() {
-    gulp.watch(config.dev + '/index.html', [browserSync.reload()]);
+    gulp.watch(config.dev + 'index.html', [browserSync.reload()]);
     gulp.watch(config.sass + '/**/*.scss', ['compass-dev']);
 });
