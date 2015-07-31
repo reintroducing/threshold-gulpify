@@ -1,4 +1,4 @@
-*DEPRECATED! Use [generator-threshold](https://github.com/reintroducing/generator-threshold) instead!*
+**DEPRECATED! Use [generator-threshold](https://github.com/reintroducing/generator-threshold) instead!**
 
 # threshold-gulpify
 
